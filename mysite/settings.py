@@ -89,7 +89,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://localhost:8080',
     'https://my-bot-frontend.herokuapp.com',
-    'http://143.244.203.14:4000',
+    'http://143.244.203.14',
 ]
 
 DATABASES = {
